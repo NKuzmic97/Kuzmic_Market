@@ -65,6 +65,7 @@ namespace Projekat2_NRT4416
         {
             novaForma = new RacunForm(this);
             novaForma.Show();
+            string test = "Testing how Github works!";
             this.posaljiArtikal += new PosaljiArtikal(novaForma.DodajNaRacun);
             novaForma.SetDesktopLocation(this.Location.X + this.Size.Width-15, this.Location.Y);
             PostaviMetodeNaGrupe();
