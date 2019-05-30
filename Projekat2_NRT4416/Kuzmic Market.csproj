@@ -117,7 +117,6 @@
     <EmbeddedResource Include="RacunForm.resx">
       <DependentUpon>RacunForm.cs</DependentUpon>
     </EmbeddedResource>
-    <None Include="Projekat2_NRT4416_TemporaryKey.pfx" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
